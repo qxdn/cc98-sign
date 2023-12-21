@@ -20,6 +20,9 @@ cc98sign
 go run .\cmd\cc98sign\ 
 ```
 
+效果
+![](assets/image.png)
+
 ## TODO
 - [ ] 定时脚本
 - [ ] err检查
