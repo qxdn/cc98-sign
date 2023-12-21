@@ -16,6 +16,8 @@
 运行
 ```bash
 cc98sign
+# 或者
+go run .\cmd\cc98sign\ 
 ```
 
 ## TODO
